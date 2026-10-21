@@ -1,4 +1,4 @@
-# Actividad Práctica 2 - Programación Orientada a Objetos
+# Actividad Práctica 3 - Programación Orientada a Objetos
 
 **Nombre de la Universidad:** Universidad Nacional de Colombia 
 * **Nombre de la Actividad:** Actividad Práctica 1-2- POO
