@@ -18,6 +18,8 @@
 * `ejercicio_auto.py`: Solución al ejercicio propuesto 66
 * `ejercicio_figuras.py`: Solución al ejercicio propuesto 86
 * `ejercicio_cuenta_b.py`:Solución al ejercicio propuesto 95
+*  `ejercicio_notas.py`:Solución al ejercicio propuesto 8.2
+*   `ejercicio_figuras2.py`:Solución al ejercicio propuesto 8.3
 
 
 
